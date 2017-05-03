@@ -4,5 +4,9 @@ Testing2 changes
 a;lksdjf
 aldkjf
 lkjajdkf
+<<<<<<< HEAD
 Master branch change - test02-test1 
+=======
+Master branch change - test02-test1
+>>>>>>> test1
 
